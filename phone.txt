@@ -2,3 +2,5 @@ phone
 cover
 scratch less
 laptop
+hero
+name
